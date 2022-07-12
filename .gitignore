@@ -1,0 +1,10 @@
+/.vscode
+*.dll
+*.dll.*
+*.pdb
+*.exp
+*.lib
+*.obj
+*.o
+*.so
+
